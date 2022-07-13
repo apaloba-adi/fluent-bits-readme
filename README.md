@@ -6,5 +6,5 @@ Theoretical paths to success:
 
 Current Red Flags/Hurdles
 - Unclear documentation on location of configuration file, especially in Docker
-- When using Docker container, cannot post to specified localhost port - 'Connection Refused`
+- When using Docker container, cannot post to specified localhost port - 'Connection Refused'
 - Cannot access filesystem in Docker in order to configure file
